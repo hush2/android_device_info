@@ -68,4 +68,4 @@ check [Flutter Android Device Info](https://github.com/hush2/flutter_android_dev
 
 ## license
 
-Apache 2.0
+BSD
