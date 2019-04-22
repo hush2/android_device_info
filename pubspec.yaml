@@ -1,6 +1,6 @@
 name: android_device_info
 description: A Flutter plugin for getting device information on Android devices.
-version: 0.1.0
+version: 1.0.0
 author: hush2 <hush2dev@gmail.com>
 homepage: https://github.com/hush2/android_device_info
 
